@@ -57,3 +57,4 @@ print("Data Type:", marks.dtype)
 print("Item Size:", marks.itemsize)
 
 print("Total Bytes:", marks.nbytes)
+
