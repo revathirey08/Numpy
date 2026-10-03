@@ -7,7 +7,6 @@ marks = np.array([60, 70, 80, 90, 100])
 mean = np.mean(marks)
 print("Mean:", mean)
 
-
 median = np.median(marks)
 print("Median:", median)
 
@@ -45,7 +44,5 @@ matrix = np.array([
 print("Matrix:")
 print(matrix)
 
-result = np.dot(matrix, matrix)
 
 print("Matrix Multiplication:")
-print(result)
